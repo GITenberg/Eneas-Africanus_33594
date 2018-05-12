@@ -1,0 +1,31 @@
+_repo: Eneas-Africanus_33594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, Harry Stillwell
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '6154'
+    url: http://www.gutenberg.org/2009/agents/6154
+description: Major George Tommey sends a letter to the Macon Telegraph and Messenger,
+  asking for assistance in locating "an old family negro of mine who disappeared in
+  1864." He receives in return letters from all over the South from people who have
+  had encounters with the lively, talkative old man.
+gutenberg_issued: '2010-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33594'
+  lccn: '25023762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+title: Eneas Africanus
+url: http://www.gutenberg.org/ebooks/33594
